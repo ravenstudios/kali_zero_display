@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (PyCharm, etc.)
+.idea/
+
+# Pycharm project files
+*.iml
+
+# Systemd service logs (if applicable)
+*.service~
+
+# Secret files (be careful!)
+.env
+*.pem
+*.key
